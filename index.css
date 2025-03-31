@@ -207,5 +207,9 @@ body {
     .expand-card{
         height: 200px;
     }
+
+    .most-popular{
+        left: 302px;
+    }
     
 }
