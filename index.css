@@ -5,7 +5,6 @@ body {
   text-align: center;
   display: flex;
   flex-direction: column;
-  /* justify-content: center; */
   align-items: center;
 }
 
@@ -69,7 +68,6 @@ body {
 }
 
 .standard-price {
-  /* padding-left: 10px; */
   font-size: 12px;
   color: #000000;
   font-family: sans-serif;
